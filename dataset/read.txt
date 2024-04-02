@@ -1,0 +1,1 @@
+Dataset de las acciones de adidas extraido de yahoo finance
